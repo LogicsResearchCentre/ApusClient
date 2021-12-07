@@ -1,7 +1,7 @@
 # ApusClient
 
-APUS ir atkritumu pārvadājumu uzskaites valsts informācijas sistēma http://parissrv.lvgmc.lv/APUS
-ApusClient ir .net Standard 2.0 bibliotēka darbam ar APUS sistēmu.
+- APUS ir atkritumu pārvadājumu uzskaites valsts informācijas sistēma http://parissrv.lvgmc.lv/APUS
+- ApusClient ir .net Standard 2.0 bibliotēka darbam ar APUS sistēmu.
 
 ```c#
 #define test //Aizkomentēt šo ridnu, lai darbotos produkcijas vidē!
